@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Presentation.ClassroomController",
+    "Method": "GetClassrooms",
+    "RelativePath": "classroom/{cid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cid",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
