@@ -1,0 +1,43 @@
+[
+  {
+    "WorkflowName": "WeeklyGrading",
+    "Rules": [
+      {
+        "RuleName": "ExcellentGrade",
+        "Expression": "classroom.ActivityPoints >=100 AND classroom.MinusPoints <=6"
+      },
+      {
+        "RuleName": "VeryGoodGrade",
+        "Expression": "classroom.ActivityPoints >= 90 AND classroom.MinusPoints <=10"
+      },
+      {
+        "RuleName": "GoodGrade",
+        "Expression": "classroom.ActivityPoints >= 80 AND classroom.MinusPoints <=20"
+      },
+      {
+        "RuleName": "AverageGrade",
+        "Expression": "classroom.ActivityPoints >= 70 AND classroom.MinusPoints <=30",
+        "SuccessEvent":  "Thực sự Trung Bình",
+        "Actions": {
+          "OnSuccess": {
+            "Name": "OutputExpression",
+            "Context": {
+              "Expression": "\"TRUNG BÌNH\""
+            }
+          },
+          "OnFailure": {
+            "Name": "EvaluateRule",
+            "Context": {
+              "WorkflowName": "WeeklyGrading",
+              "ruleName":  "BadGrade"
+            }
+          }
+        }
+      },
+      {
+        "RuleName": "BadGrade",
+        "Expression": "classroom.ActivityPoints >= 0 AND int.Parse(classroom.ClassroomId[classroom.ClassroomId.Length -1].ToString()) >3"
+      }
+    ]
+  }
+]

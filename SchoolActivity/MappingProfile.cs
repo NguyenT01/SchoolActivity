@@ -20,6 +20,8 @@ namespace SchoolActivity
                     opts.Condition(s => s.ActivityPoints >= 0);
                 })
                 .ForMember(d => d.MinusPoints, opts => opts.Condition(s => s.ActivityPoints >= 0));
+
+            CreateMap<Classroom, ClassroomWeeklyGradingDTO>();
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace DTO
 {
-    public record ClassroomCreationDTO : ClassroomDTO
+    public class ClassroomCreationDTO : ClassroomDTO
     {
 
     }

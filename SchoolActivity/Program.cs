@@ -12,6 +12,8 @@ builder.Services.ConfigureSqlContext(builder.Configuration);
 builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureServicePresentation();
 
+//builder.Configuration.AddJsonFile("Rules1.json", false, true);
+
 builder.Services.AddControllers()
         .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
 

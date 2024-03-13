@@ -9,5 +9,8 @@ namespace Services.Interface
         public Task<ClassroomDTO> CreateClassroom(ClassroomCreationDTO classroom);
         public Task DeleteClassroom(ClassroomDeleteDTO classroom, bool tracking);
         public Task UpdateClassroom(ClassroomUpdateDTO classroom, bool tracking);
+
+        public Task<ClassroomWeeklyGradingDTO> ClassroomGradingByWeek(string cid, int month, int week, bool tracking);
+
     }
 }

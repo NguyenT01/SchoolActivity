@@ -139,3 +139,10 @@ C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\zh-H
 C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\Presentation.dll
 C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\Presentation.pdb
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\Rules1.json
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\nguyen\source\repos\SchoolActivity\SchoolActivity\obj\Debug\net8.0\SchoolActivity.MvcApplicationPartsAssemblyInfo.cs

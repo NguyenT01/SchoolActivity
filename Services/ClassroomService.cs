@@ -1,8 +1,11 @@
 ﻿using AutoMapper;
 using DTO;
+using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 using Repository.Entities;
 using Repository.ErrorModel;
 using Repository.Interface;
+using RulesEngine.Models;
 using Services.Interface;
 
 namespace Services
@@ -11,10 +14,38 @@ namespace Services
     {
         private readonly IRepositoryManager _repositoryManager;
         private readonly IMapper _mapper;
-        public ClassroomService(IRepositoryManager repositoryManager, IMapper mapper)
+        private readonly IConfiguration _config;
+        public ClassroomService(IRepositoryManager repositoryManager, IMapper mapper, IConfiguration config)
         {
             _repositoryManager = repositoryManager;
             _mapper = mapper;
+            _config = config;
+        }
+
+        public async Task<ClassroomWeeklyGradingDTO> ClassroomGradingByWeek(string cid, int month, int week, bool tracking)
+        {
+            string json = File.ReadAllText("Rules1.json");
+            var rules = JsonConvert.DeserializeObject<Workflow[]>(json);
+
+            var re = new RulesEngine.RulesEngine(rules);
+
+            var classroomDTO = new ClassroomWithDateTimeDTO
+            {
+                ClassroomId = cid,
+                Month = month,
+                Week = week
+            };
+
+            var classroomDB = await _checkClassroomIfExists(classroomDTO, tracking);
+            var classroom = _mapper.Map<ClassroomWeeklyGradingDTO>(classroomDB);
+
+            // set param name "classroom" instead of "input1" by default.
+            var rp1 = new RuleParameter("classroom", classroom);
+            var resultList = await re.ExecuteActionWorkflowAsync("WeeklyGrading", "AverageGrade", [rp1]);
+
+            classroom.Grading = resultList.Output.ToString();
+
+            return classroom;
         }
 
         public async Task<ClassroomDTO> CreateClassroom(ClassroomCreationDTO classroom)

@@ -48,5 +48,13 @@ namespace Presentation
             await _classroomService.UpdateClassroom(classroom, true);
             return Ok();
         }
+
+        [HttpGet("weeklygrade/{cid}")]
+        public async Task<IActionResult> GetWeeklyGrade(string cid, [FromQuery] int month, [FromQuery] int week)
+        {
+            var classroomData = await _classroomService.ClassroomGradingByWeek(cid, month, week, false);
+            return Ok(classroomData);
+        }
+
     }
 }

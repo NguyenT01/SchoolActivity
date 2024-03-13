@@ -25,5 +25,6 @@ namespace SchoolActivity.Extensions
         {
             services.AddTransient<IClassroomService, ClassroomService>();
         }
+
     }
 }
