@@ -2,6 +2,6 @@
 {
     public sealed class ClassroomNotFoundException : NotFoundException
     {
-        public ClassroomNotFoundException(string classroomId, uint month, uint week) : base($"{classroomId} - M: {month} -W: {week} Not Found") { }
+        public ClassroomNotFoundException(string classroomId, int month, int week) : base($"{classroomId} - M: {month} -W: {week} Not Found") { }
     }
 }

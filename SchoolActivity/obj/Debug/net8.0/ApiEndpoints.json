@@ -1,6 +1,54 @@
 [
   {
     "ContainingType": "Presentation.ClassroomController",
+    "Method": "CreateNewClassroom",
+    "RelativePath": "classroom",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classroom",
+        "Type": "DTO.ClassroomCreationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.ClassroomController",
+    "Method": "DeleteClassroom",
+    "RelativePath": "classroom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classroom",
+        "Type": "DTO.ClassroomDeleteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.ClassroomController",
+    "Method": "UpdateClassroom",
+    "RelativePath": "classroom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classroom",
+        "Type": "DTO.ClassroomUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.ClassroomController",
     "Method": "GetClassrooms",
     "RelativePath": "classroom/{cid}",
     "HttpMethod": "GET",
@@ -11,6 +59,16 @@
         "Name": "cid",
         "Type": "System.String",
         "IsRequired": true
+      },
+      {
+        "Name": "month",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "week",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

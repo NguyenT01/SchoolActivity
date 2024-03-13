@@ -1,7 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace Repository.Models;
-
+﻿namespace Repository.Models;
+/*
 public partial class SchoolActivityContext : DbContext
 {
     public SchoolActivityContext()
@@ -36,3 +34,4 @@ public partial class SchoolActivityContext : DbContext
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
+*/

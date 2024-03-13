@@ -3,10 +3,10 @@
     public record ClassroomDTO
     {
         public string? ClassroomId { get; init; }
-        public uint Month { get; init; }
-        public uint Week { get; init; }
-        public uint ActivityPoints { get; init; }
-        public uint MinusPoints { get; init; }
+        public int Month { get; init; }
+        public int Week { get; init; }
+        public int ActivityPoints { get; init; }
+        public int MinusPoints { get; init; }
     }
 
 }

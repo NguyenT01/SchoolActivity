@@ -15,11 +15,11 @@ namespace SchoolActivity
             CreateMap<ClassroomUpdateDTO, ClassroomWithDateTimeDTO>();
 
             CreateMap<ClassroomUpdateDTO, Classroom>()
-                .ForMember(d => d.ActivityPoints, opts =>
+             .ForMember(d => d.ActivityPoints, opts =>
                 {
-                    opts.MapFrom(s => s.ActivityPoints >= 0);
+                    opts.Condition(s => s.ActivityPoints >= 0);
                 })
-                .ForMember(d => d.MinusPoints, opts => opts.MapFrom(s => s.MinusPoints >= 0));
+                .ForMember(d => d.MinusPoints, opts => opts.Condition(s => s.ActivityPoints >= 0));
         }
     }
 }

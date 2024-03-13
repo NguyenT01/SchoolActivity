@@ -3,9 +3,9 @@
     public class ClassroomUpdateDTO
     {
         public string? ClassroomId { get; set; }
-        public uint Month { get; set; }
-        public uint Week { get; set; }
-        public uint ActivityPoints { get; set; }
-        public uint MinusPoints { get; set; }
+        public int Month { get; set; }
+        public int Week { get; set; }
+        public int ActivityPoints { get; set; }
+        public int MinusPoints { get; set; }
     }
 }

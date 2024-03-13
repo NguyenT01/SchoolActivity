@@ -8,7 +8,7 @@
     public record ClassroomWithDateTimeDTO
     {
         public string? ClassroomId { get; init; }
-        public uint Month { get; init; }
-        public uint Week { get; init; }
+        public int Month { get; init; }
+        public int Week { get; init; }
     }
 }

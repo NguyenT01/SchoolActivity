@@ -14,7 +14,7 @@ namespace Repository
         public void DeleteClassroom(Classroom classroom)
             => Delete(classroom);
 
-        public async Task<Classroom> GetClassroomByTime(string classroomId, uint month, uint week, bool tracking)
+        public async Task<Classroom> GetClassroomByTime(string classroomId, int month, int week, bool tracking)
             => await FindByCondition(c => c.ClassroomId!.Equals(classroomId) && c.Month == month && c.Week == week, tracking)
                     .SingleOrDefaultAsync();
 

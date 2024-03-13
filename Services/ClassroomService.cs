@@ -36,8 +36,14 @@ namespace Services
             await _repositoryManager.Save();
         }
 
-        public async Task<ClassroomDTO> GetClassroomByTime(ClassroomWithDateTimeDTO classroomDTO, bool tracking)
+        public async Task<ClassroomDTO> GetClassroomByTime(string cid, int month, int week, bool tracking)
         {
+            var classroomDTO = new ClassroomWithDateTimeDTO
+            {
+                ClassroomId = cid,
+                Month = month,
+                Week = week
+            };
             var classroom = await _checkClassroomIfExists(classroomDTO, tracking);
             var classroomDto = _mapper.Map<ClassroomDTO>(classroom);
             return classroomDto;
