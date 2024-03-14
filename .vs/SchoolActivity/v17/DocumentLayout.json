@@ -7,112 +7,16 @@
       "RelativeMoniker": "D:0:0:{E5F42849-2E4C-4DA5-983A-88E194BA97E1}|Services\\Services.csproj|solutionrelative:services\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\weeklyrules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\weeklyrules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\presentation\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|solutionrelative:presentation\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\dto\\classroomdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|solutionrelative:dto\\classroomdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\dto\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|solutionrelative:dto\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5F42849-2E4C-4DA5-983A-88E194BA97E1}|Services\\Services.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\services\\interface\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F42849-2E4C-4DA5-983A-88E194BA97E1}|Services\\Services.csproj|solutionrelative:services\\interface\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\interface\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\interface\\iclassroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iclassroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\models\\schoolactivitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\models\\schoolactivitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\dto\\classroomupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|solutionrelative:dto\\classroomupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\dto\\classroomcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F9F09F-9EEE-4018-802B-E804EA912B36}|DTO\\DTO.csproj|solutionrelative:dto\\classroomcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\configuration\\classroomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\configuration\\classroomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{331A2AD1-7F3B-410B-B9C1-D9D297802007}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\schoolactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\schoolactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\errormodel\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\errormodel\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\errormodel\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\errormodel\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\repository\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7349EC-EA65-4B19-9E0E-D51FC48AF24C}|Repository\\Repository.csproj|solutionrelative:repository\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\schoolactivity\\extensions\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB671736-B623-4CA6-881B-3BADD71EEE4D}|SchoolActivity\\SchoolActivity.csproj|solutionrelative:schoolactivity\\extensions\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 255,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -133,16 +37,20 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClassroomDeleteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomDeleteDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ClassroomDeleteDTO.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomDeleteDTO.cs",
-              "RelativeToolTip": "DTO\\ClassroomDeleteDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T01:57:17.413Z"
+              "DocumentIndex": 1,
+              "Title": "WeeklyRules.json",
+              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\WeeklyRules.json",
+              "RelativeDocumentMoniker": "SchoolActivity\\WeeklyRules.json",
+              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\WeeklyRules.json",
+              "RelativeToolTip": "SchoolActivity\\WeeklyRules.json",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T03:43:05.119Z"
             },
             {
               "$type": "Document",
@@ -152,326 +60,34 @@
               "RelativeDocumentMoniker": "Services\\ClassroomService.cs",
               "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Services\\ClassroomService.cs",
               "RelativeToolTip": "Services\\ClassroomService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T06:23:01.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassroomController.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\ClassroomController.cs",
-              "RelativeDocumentMoniker": "Presentation\\ClassroomController.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\ClassroomController.cs",
-              "RelativeToolTip": "Presentation\\ClassroomController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T10:27:28.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolActivity\\Program.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Program.cs",
-              "RelativeToolTip": "SchoolActivity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:10:35.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClassroomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ClassroomRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ClassroomRepository.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ClassroomRepository.cs",
-              "RelativeToolTip": "Repository\\ClassroomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T04:26:12.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\appsettings.json",
               "RelativeDocumentMoniker": "SchoolActivity\\appsettings.json",
               "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\appsettings.json",
               "RelativeToolTip": "SchoolActivity\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T07:16:01.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T07:16:01.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Extensions\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "SchoolActivity\\Extensions\\ServiceExtension.cs",
               "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Extensions\\ServiceExtension.cs",
               "RelativeToolTip": "SchoolActivity\\Extensions\\ServiceExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T03:26:11.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClassroomDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ClassroomDTO.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomDTO.cs",
-              "RelativeToolTip": "DTO\\ClassroomDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T01:57:26.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RepositoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryContext.cs",
-              "RelativeDocumentMoniker": "Repository\\RepositoryContext.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryContext.cs",
-              "RelativeToolTip": "Repository\\RepositoryContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T04:21:31.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IClassroomService.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Services\\Interface\\IClassroomService.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IClassroomService.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Services\\Interface\\IClassroomService.cs",
-              "RelativeToolTip": "Services\\Interface\\IClassroomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:22:00.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRepositoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Interface\\IRepositoryManager.cs",
-              "RelativeDocumentMoniker": "Repository\\Interface\\IRepositoryManager.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Interface\\IRepositoryManager.cs",
-              "RelativeToolTip": "Repository\\Interface\\IRepositoryManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:12:15.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SchoolActivityContext.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Models\\SchoolActivityContext.cs",
-              "RelativeDocumentMoniker": "Repository\\Models\\SchoolActivityContext.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Models\\SchoolActivityContext.cs",
-              "RelativeToolTip": "Repository\\Models\\SchoolActivityContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T10:23:16.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IClassroomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Interface\\IClassroomRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Interface\\IClassroomRepository.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Interface\\IClassroomRepository.cs",
-              "RelativeToolTip": "Repository\\Interface\\IClassroomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:29:33.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClassroomUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ClassroomUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomUpdateDTO.cs",
-              "RelativeToolTip": "DTO\\ClassroomUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:32:03.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Classroom.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Models\\Classroom.cs",
-              "RelativeDocumentMoniker": "Repository\\Models\\Classroom.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Models\\Classroom.cs",
-              "RelativeToolTip": "Repository\\Models\\Classroom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T10:27:21.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClassroomConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Configuration\\ClassroomConfiguration.cs",
-              "RelativeDocumentMoniker": "Repository\\Configuration\\ClassroomConfiguration.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Configuration\\ClassroomConfiguration.cs",
-              "RelativeToolTip": "Repository\\Configuration\\ClassroomConfiguration.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T01:52:37.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClassroomCreationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomCreationDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ClassroomCreationDTO.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\DTO\\ClassroomCreationDTO.cs",
-              "RelativeToolTip": "DTO\\ClassroomCreationDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:31:50.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RepositoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryManager.cs",
-              "RelativeDocumentMoniker": "Repository\\RepositoryManager.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryManager.cs",
-              "RelativeToolTip": "Repository\\RepositoryManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T08:31:33.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\AssemblyReference.cs",
-              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T08:19:25.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RepositoryContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\RepositoryContextFactory.cs",
-              "RelativeDocumentMoniker": "SchoolActivity\\RepositoryContextFactory.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\RepositoryContextFactory.cs",
-              "RelativeToolTip": "SchoolActivity\\RepositoryContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T09:46:03.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\RepositoryBase.cs",
-              "RelativeToolTip": "Repository\\RepositoryBase.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T04:18:17.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Presentation",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\Presentation.csproj",
-              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Presentation\\Presentation.csproj",
-              "RelativeToolTip": "Presentation\\Presentation.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T09:50:15.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SchoolActivity",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\SchoolActivity.csproj",
-              "RelativeDocumentMoniker": "SchoolActivity\\SchoolActivity.csproj",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\SchoolActivity.csproj",
-              "RelativeToolTip": "SchoolActivity\\SchoolActivity.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T08:31:52.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Repository.csproj",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Repository.csproj",
-              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\Repository.csproj",
-              "RelativeToolTip": "Repository\\Repository.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T06:37:40.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorDetails.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\ErrorDetails.cs",
-              "RelativeDocumentMoniker": "Repository\\ErrorModel\\ErrorDetails.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\ErrorDetails.cs",
-              "RelativeToolTip": "Repository\\ErrorModel\\ErrorDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:03:59.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Repository\\ErrorModel\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\NotFoundException.cs",
-              "RelativeToolTip": "Repository\\ErrorModel\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:02:17.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ClassroomNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\ClassroomNotFoundException.cs",
-              "RelativeDocumentMoniker": "Repository\\ErrorModel\\ClassroomNotFoundException.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\Repository\\ErrorModel\\ClassroomNotFoundException.cs",
-              "RelativeToolTip": "Repository\\ErrorModel\\ClassroomNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:02:28.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ExceptionMiddlewareExtension.cs",
-              "DocumentMoniker": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Extensions\\ExceptionMiddlewareExtension.cs",
-              "RelativeDocumentMoniker": "SchoolActivity\\Extensions\\ExceptionMiddlewareExtension.cs",
-              "ToolTip": "C:\\Users\\nguyen\\source\\repos\\SchoolActivity\\SchoolActivity\\Extensions\\ExceptionMiddlewareExtension.cs",
-              "RelativeToolTip": "SchoolActivity\\Extensions\\ExceptionMiddlewareExtension.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:06:04.198Z"
             }
           ]
         }
