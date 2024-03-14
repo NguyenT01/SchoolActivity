@@ -16,4 +16,3 @@ C:\Users\nguyen\source\repos\SchoolActivity\Services\obj\Debug\net8.0\Services.d
 C:\Users\nguyen\source\repos\SchoolActivity\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\nguyen\source\repos\SchoolActivity\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\nguyen\source\repos\SchoolActivity\Services\obj\Debug\net8.0\ref\Services.dll
-C:\Users\nguyen\source\repos\SchoolActivity\Services\bin\Debug\net8.0\Rules1.json

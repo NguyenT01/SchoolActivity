@@ -24,7 +24,9 @@ namespace Services
 
         public async Task<ClassroomWeeklyGradingDTO> ClassroomGradingByWeek(string cid, int month, int week, bool tracking)
         {
-            string json = File.ReadAllText("Rules1.json");
+            var reConfig = _config.GetSection("RE_WeeklyGrading");
+
+            string json = File.ReadAllText(reConfig.GetSection("FileRE").Value!);
             var rules = JsonConvert.DeserializeObject<Workflow[]>(json);
 
             var re = new RulesEngine.RulesEngine(rules);
@@ -40,8 +42,10 @@ namespace Services
             var classroom = _mapper.Map<ClassroomWeeklyGradingDTO>(classroomDB);
 
             // set param name "classroom" instead of "input1" by default.
-            var rp1 = new RuleParameter("classroom", classroom);
-            var resultList = await re.ExecuteActionWorkflowAsync("WeeklyGrading", "AverageGrade", [rp1]);
+            var rp1 = new RuleParameter(reConfig.GetSection("Param1Annotation").Value!, classroom);
+
+            var resultList = await re.ExecuteActionWorkflowAsync(reConfig.GetSection("PrimaryWorkflow").Value,
+                reConfig.GetSection("PrimaryRule").Value, [rp1]);
 
             classroom.Grading = resultList.Output.ToString();
 

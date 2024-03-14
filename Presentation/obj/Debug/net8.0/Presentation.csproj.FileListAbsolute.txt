@@ -18,4 +18,3 @@ C:\Users\nguyen\source\repos\SchoolActivity\Presentation\obj\Debug\net8.0\Presen
 C:\Users\nguyen\source\repos\SchoolActivity\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 C:\Users\nguyen\source\repos\SchoolActivity\Presentation\obj\Debug\net8.0\Presentation.pdb
 C:\Users\nguyen\source\repos\SchoolActivity\Presentation\obj\Debug\net8.0\ref\Presentation.dll
-C:\Users\nguyen\source\repos\SchoolActivity\Presentation\bin\Debug\net8.0\Rules1.json
